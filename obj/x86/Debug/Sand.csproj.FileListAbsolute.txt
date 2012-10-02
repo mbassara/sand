@@ -1,0 +1,9 @@
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\bin\Debug\Sand.exe
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\bin\Debug\Sand.pdb
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\obj\x86\Debug\Sand.exe
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\obj\x86\Debug\Sand.pdb
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\obj\x86\Debug\Sand.MainWindow.resources
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Maciek\programowanie\C#\sand\Sand\Sand\obj\x86\Debug\Sand.Properties.Resources.resources
